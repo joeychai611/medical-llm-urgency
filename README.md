@@ -5,7 +5,7 @@ Medical LLMs are mostly evaluated on whether an answer is clinically correct. A 
 
 The scoring rule commonly used takes the strongest urgency phrase anywhere in a reply, so a reply containing "emergency" passes whatever the message conveys as a whole. It is not known whether reply urgency systematically diverges from case urgency, in which direction, or whether that divergence is visible in the model's internal state before it writes.
 
-2. Setup
+3. Setup
 |               |                                                                                                                                  |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Benchmark     | CARE-Bench: patient-clinician conversations re-staged into rounds of controlled disclosure, one clinician action label per round |
