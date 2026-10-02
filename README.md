@@ -8,6 +8,7 @@ The scoring rule commonly used takes the strongest urgency phrase anywhere in a 
 
 ## 2. Setup
 
+|               |                                                                                                                                  |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Benchmark     | CARE-Bench: patient-clinician conversations re-staged into rounds of controlled disclosure, one clinician action label per round |
 | Rows used     | 676 from 424 conversations: **172 urgent**, **504 non-urgent**                                                                   |
